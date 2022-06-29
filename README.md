@@ -47,3 +47,5 @@ nest g resource name_resource
 - Arquitetura escalável
 - Grande compatibilidade com sistemas:
     - Banco de Dados: Mysql, PostgreSQL, MongoDB, etc.
+    - Websockets
+    - Microserviços: Redis, RabbitMQ, Kafka, gRPC, CQRS e etc.
